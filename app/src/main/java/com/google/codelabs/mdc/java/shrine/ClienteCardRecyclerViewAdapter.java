@@ -13,7 +13,7 @@ import com.google.codelabs.mdc.java.shrine.network.ClienteEntry;
 import java.util.List;
 
 /**
- * Adapter used to show a simple grid of products.
+ * Adaptersimple grid of products.
  */
 public class ClienteCardRecyclerViewAdapter extends RecyclerView.Adapter<ClienteCardViewHolder> {
 
