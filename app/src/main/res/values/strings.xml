@@ -1,0 +1,26 @@
+<resources>
+    <string name="shr_app_name">Shrine</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Ingresar</string>
+    <string name="shr_button_register">Registrarse</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">La contraseña debe contener al menos una mayúscula y tener 8 caracteres</string>
+    <string name="shr_filter_title">Filter</string>
+    <string name="shr_search_title">Search</string>
+    <string name="shr_product_title">Title</string>
+    <string name="shr_product_description">Secondary text</string>
+    <string name="shr_hint_confirmpassword">Confirm password</string>
+
+
+    <string name="shr_button_signup">Sign up</string>
+    <!-- Shrine backdrop menu labels -->
+    <string name="shr_featured_label">Inicio</string>
+    <string name="shr_servicio">Servicios</string>
+    <string name="shr_perfil">Perfil</string>
+    <string name="shr_historial">Historial de servicios</string>
+    <string name="shr_configuracion">Configuración</string>
+
+
+
+</resources>
